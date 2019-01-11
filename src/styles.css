@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+.list-group-item{
+    background-color: rgb(192, 206, 201);
+}
+.usersOnline{
+    border-radius: 25px;
+}
